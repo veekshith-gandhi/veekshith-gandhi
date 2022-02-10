@@ -27,10 +27,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
     <img height="60px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png">  
     <img height="52px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png">  
     <img height="60px" align="center" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
-  
+    &nbsp;&nbsp;
     <img height="44px" width="44px" align="center" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"> &nbsp;&nbsp;
   <img height="44px" width="44px" align="center" src="https://user-images.githubusercontent.com/63009970/150983603-0994a55b-a4ca-499f-ba5e-f81e6f1009c5.png">
- </p>
+  
+</p>
 
 
 
