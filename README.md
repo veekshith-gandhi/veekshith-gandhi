@@ -23,8 +23,17 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </p>
 
 
+<br/>
+ <p  align="center">
+    <a href="https://github.com/veekshith-gandhi/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=veekshith-gandhi&show_icons=true&count_private=true" /></a>
+    </p>
+   <br/> 
+    <p  align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekshith-gandhi" height="260px" width="33.25%"/>
+    </p>
+<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=veekshith-gandhi&show_icons=true)  
+
 
 <p align="center" width="100%" margin="auto">
 <h4 align="center"> CONNECT WITH ME </h4>
