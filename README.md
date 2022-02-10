@@ -16,6 +16,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img height="100px" width="84px" align="center" src="https://user-images.githubusercontent.com/63009970/150983096-3ca2f4c4-0100-4bf8-9e46-81c5c23a40f5.png">
 </p>
 
+<p align="center">
+    <a href="https://github.com/veekshith-gandhi/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=veekshith-gandhi"/>
+    </a>
+</p>
 
 
 
