@@ -2,6 +2,17 @@
 #### Design and Development
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+
+<div align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150720572-eac3041d-d19e-4182-9b74-715f7c30e253.jpg"/>
+</p>
+</div>
+<br/>
+<div align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150683672-7681986b-5471-4402-9a70-287d0cd8ce0e.jpg"/>
+</div>
+<br/>
+
 <p align="center" width="100%">
     <img  align="center" height="60px" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png">&nbsp;&nbsp;&nbsp;
     <img align="center" height="46px" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png">&nbsp;&nbsp;&nbsp;
@@ -18,15 +29,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-<div align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150720572-eac3041d-d19e-4182-9b74-715f7c30e253.jpg"/>
-</p>
-</div>
-<br/>
-<div align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/63009970/150683672-7681986b-5471-4402-9a70-287d0cd8ce0e.jpg"/>
-</div>
-<br/>
+
 
 
 <p align="center">
