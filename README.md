@@ -3,6 +3,12 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
+</p>
+
+
+
 <div align="center">
   <img width="50%" src="https://user-images.githubusercontent.com/63009970/150720572-eac3041d-d19e-4182-9b74-715f7c30e253.jpg"/>
 </p>
