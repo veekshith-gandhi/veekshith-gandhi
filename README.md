@@ -60,7 +60,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <p align="center" width="100%" margin="auto">
 <h4 align="center"> CONNECT WITH ME </h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/veekshith-gandhi-46921716b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nm-veekshith-gandhi-46921716b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:veekshithgandhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-veekshithgandhi@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <br/>
  
